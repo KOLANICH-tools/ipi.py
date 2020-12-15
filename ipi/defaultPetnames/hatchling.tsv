@@ -1,0 +1,6 @@
+# Deps of hatchling
+name	repo
+	https://github.com/ofek/hatch-vcs
+	https://github.com/hynek/hatch-fancy-pypi-readme
+	https://github.com/pfmoore/editables
+pathspec	https://github.com/cpburnz/python-pathspec

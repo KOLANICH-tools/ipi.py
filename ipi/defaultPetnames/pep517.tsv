@@ -1,0 +1,11 @@
+# These are repos of PEP517 backends
+name	repo	subDir
+	https://github.com/pypa/setuptools	
+flit	https://github.com/takluyver/flit
+flit_core	https://github.com/takluyver/flit	flit_core
+	https://github.com/python-poetry/poetry-core
+hatchling	https://github.com/pypa/hatch	backend
+	https://github.com/FFY00/trampolim
+	https://github.com/repo-helper/whey
+	https://github.com/pdm-project/pdm-pep517
+flit-scm	https://gitlab.com/WillDaSilva/flit_scm

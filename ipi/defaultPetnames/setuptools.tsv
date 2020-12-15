@@ -1,0 +1,12 @@
+# these are repos needed for setuptools installation
+name	repo	refSpec	depth
+	https://github.com/pypa/installer.git
+	https://github.com/pypa/pip.git
+	https://github.com/pypa/wheel.git
+	https://github.com/hukkin/tomli.git
+	https://github.com/pypa/setuptools_scm.git		50
+	https://github.com/pyparsing/pyparsing.git
+	https://github.com/pypa/pyproject-hooks.git
+	https://github.com/pypa/packaging.git
+	https://github.com/pypa/build.git
+	https://github.com/python/typing_extensions.git

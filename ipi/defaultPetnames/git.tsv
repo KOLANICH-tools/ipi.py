@@ -1,0 +1,5 @@
+# Packages for dealing with git
+name	repo
+	https://github.com/gitpython-developers/GitPython
+	https://github.com/gitpython-developers/gitdb
+	https://github.com/gitpython-developers/smmap

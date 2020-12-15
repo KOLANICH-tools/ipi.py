@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=61.2.0", "setuptools_scm[toml]>=3.4.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ipi"
+readme = "ReadMe.md"
+description = "Anti-bullshit package installer"
+authors = [{name = "KOLANICH"}]
+classifiers = [
+	"Development Status :: 4 - Beta",
+	"Environment :: Other Environment",
+	"Intended Audience :: Developers",
+	"License :: Public Domain",
+	"Operating System :: OS Independent",
+	"Programming Language :: Python",
+	"Programming Language :: Python :: 3",
+	"Programming Language :: Python :: 3 :: Only",
+	"Topic :: Software Development :: Libraries :: Python Modules",
+]
+keywords = ["ipi"]
+license = {text = "Unlicense"}
+requires-python = ">=3.4"
+dynamic = ["version"]
+
+dependencies = [
+	"plumbum",
+	"RichConsole",
+	"peval",
+	"httpx",
+	"sh",
+	"packaging",
+	"distlib",
+	"installer",
+	"uninstaller",
+	"unpin",
+	"tomli",
+	"appdirs",
+	#"platformdirs",
+	"icecream",
+	"pyproject_hooks",
+	"tuft",
+	"securesystemslib_KOLANICH",
+	"miniGHAPI",
+]
+
+[project.optional-dependencies]
+#GitHub = ["miniGHAPI",]
+fast_json = ["mujson",]
+
+[project.urls]
+Homepage = "https://github.com/KOLANICH-tools/ipi.py"
+
+[project.scripts]
+ipi = "ipi.__main__:main"
+
+[tool.setuptools]
+zip-safe = true
+
+[tool.setuptools.packages.find]
+include = ["ipi", "ipi.*"]
+
+[tool.setuptools_scm]

@@ -1,0 +1,17 @@
+# Tools usually needed, but not by ipi itself or its deps
+name	repo	depth
+coverage	https://github.com/nedbat/coveragepy
+	https://github.com/pytest-dev/pytest
+	https://github.com/hukkin/tomli-w
+	https://github.com/pypa/auditwheel
+	https://github.com/eliben/pyelftools
+	https://github.com/jazzband/docopt-ng
+	https://github.com/cython/cython
+lazy-object-proxy	https://github.com/ionelmc/python-lazy-object-proxy
+	https://github.com/tqdm/tqdm
+	https://github.com/jwodder/read_version
+	https://github.com/jwodder/check-wheel-contents
+	https://github.com/pydantic/pydantic
+	https://github.com/pydantic/pydantic-core
+	https://github.com/annotated-types/annotated-types
+	https://github.com/KOLANICH-mirrors/lsb	50

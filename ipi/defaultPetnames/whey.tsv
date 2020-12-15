@@ -1,0 +1,13 @@
+# Deps of whey build backend
+name	repo
+	https://github.com/domdfcoding/consolekit
+	https://github.com/repo-helper/dist-meta
+dom-toml	https://github.com/domdfcoding/dom_toml
+domdf-python-tools	https://github.com/domdfcoding/domdf_python_tools
+	https://github.com/domdfcoding/handy-archives
+	https://github.com/SethMMorton/natsort
+	https://github.com/SethMMorton/fastnumbers
+	https://github.com/domdfcoding/shippinglabel
+	https://github.com/repo-helper/pyproject-parser
+	https://github.com/domdfcoding/apeye-core
+	https://github.com/domdfcoding/apeye

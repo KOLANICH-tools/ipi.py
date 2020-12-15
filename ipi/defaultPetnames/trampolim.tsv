@@ -1,0 +1,4 @@
+# Deps of trampolim build backend
+name	repo
+pyproject-metadata	https://github.com/FFY00/python-pyproject-metadata
+backports.cached-property	https://github.com/penguinolog/backports.cached_property

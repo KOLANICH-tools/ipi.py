@@ -1,0 +1,25 @@
+# popular utility libraries used in buld backends and their deps
+name	repo	depth	fetcher
+	https://github.com/python/importlib_metadata
+	https://github.com/pytest-dev/pluggy	50
+	https://github.com/pytest-dev/iniconfig
+	https://github.com/python-attrs/attrs
+	https://github.com/agronholm/exceptiongroup
+	https://github.com/benjaminp/six
+	https://github.com/dateutil/dateutil
+	https://github.com/ActiveState/appdirs
+	https://github.com/platformdirs/platformdirs
+	https://github.com/jaraco/zipp
+	https://github.com/tartley/colorama
+	https://github.com/kjd/idna
+	https://github.com/ousret/charset_normalizer
+	https://github.com/pallets/click
+	https://github.com/click-contrib/click-log
+	https://github.com/amoffat/sh
+	https://github.com/tomerfiliba/plumbum	50
+	https://github.com/pygments/pygments
+	https://github.com/alexmojaki/executing	50
+	https://github.com/gristlabs/asttokens
+	https://foss.heptapod.net/pypy/cffi		hg
+	https://github.com/eliben/pycparser
+	https://github.com/pytest-dev/py.git

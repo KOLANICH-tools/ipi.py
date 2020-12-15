@@ -1,0 +1,15 @@
+# These are the repos of my tools and libs used by this tool
+name	repo
+ipi	https://github.com/KOLANICH-tools/ipi.py
+unpin	https://github.com/KOLANICH-tools/unpin.py
+RichConsole	https://github.com/KOLANICH-libs/RichConsole.py
+pantarei	https://github.com/KOLANICH-libs/pantarei.py
+OpenPGPAbs	https://github.com/KOLANICH-libs/OpenPGPAbs.py
+transformerz	https://github.com/KOLANICH-libs/transformerz.py
+miniGHAPI	https://github.com/KOLANICH-libs/miniGHAPI.py
+
+fetcherz	https://github.com/prebuilder/fetchers.py
+AnyVer	https://github.com/prebuilder/AnyVer.py
+fsutilz	https://github.com/prebuilder/fsutilz.py
+downloaders	https://github.com/prebuilder/downloaders.py
+GitLabInstancesDataset	https://github.com/prebuilder/GitLabInstancesDataset.py

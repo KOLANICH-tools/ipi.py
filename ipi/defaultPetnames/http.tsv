@@ -1,0 +1,17 @@
+# Modules related to HTTP
+name	repo	depth
+	https://github.com/psf/requests
+	https://github.com/urllib3/urllib3
+	https://github.com/encode/httpx
+	https://github.com/encode/httpcore
+	https://github.com/python-trio/sniffio
+	https://github.com/dabeaz/curio
+	https://github.com/agronholm/anyio
+	https://github.com/agronholm/exceptiongroup
+certifi	https://github.com/certifi/python-certifi
+	https://github.com/python-hyper/rfc3986
+	https://github.com/python-hyper/h11
+	https://github.com/python-hyper/h2
+	https://github.com/python-hyper/hyperframe
+	https://github.com/python-hyper/hpack
+	https://github.com/dashea/requests-file	50

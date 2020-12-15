@@ -1,0 +1,9 @@
+# These are ther packages needed for TUF-related crypto
+name	repo	depth
+tuft	https://github.com/KOLANICH-libs/tuft.py
+	https://github.com/secure-systems-lab/securesystemslib	50
+	https://github.com/pyca/cryptography
+securesystemslib_KOLANICH	https://github.com/KOLANICH-libs/securesystemslib_KOLANICH.py
+tuf	https://github.com/theupdateframework/python-tuf
+sshpubkeys	https://github.com/ojarva/python-sshpubkeys
+	https://github.com/scottcwang/openssh_key_parser

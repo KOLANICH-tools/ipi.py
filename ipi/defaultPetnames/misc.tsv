@@ -1,0 +1,10 @@
+# These packages are needed for ipi to be able to bootstrap itself
+name	repo	depth	refSpec
+#	https://github.com/fjarri/peval	50
+	https://github.com/KOLANICH/peval	50
+	https://github.com/gruns/icecream
+packageurl-python	https://github.com/package-url/packageurl-python
+mercurial	https://www.mercurial-scm.org/repo/hg
+#	https://github.com/greyltc-org/uninstaller	50
+	https://github.com/KOLANICH-libs/uninstaller	50	private
+	https://github.com/pypa/distlib
